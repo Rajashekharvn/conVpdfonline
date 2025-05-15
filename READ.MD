@@ -3,16 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>conVpdfonline - README</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
-        h1, h2, h3 { color: #2c3e50; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-        code { font-family: monospace; }
-        ul { margin: 0; padding-left: 20px; }
-        a { color: #2980b9; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-    </style>
+  
 </head>
 <body>
 
